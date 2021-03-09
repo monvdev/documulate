@@ -1,6 +1,7 @@
 # Documulate
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+It is a front-end to a web application for uploading and detecting words on document image files
 
 ## Development server
 
